@@ -1,5 +1,3 @@
-# Loan-Prediction-ML
-A machine learning project to predict loan approval using Random Forest
 # 🧠 Loan Default Prediction System
 
 This project uses machine learning to predict whether a loan will be approved based on applicant demographics and financial information.
